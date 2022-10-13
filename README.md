@@ -8,7 +8,9 @@
 - [INSTALLATION](#installation)<br>
 - [TEST](#test)<br>
 - [LICENSE](#license)<br>
-- [QUESTIONS](#questions)
+- [QUESTIONS](#questions)<br>
+- [PHOTO](#photo)<br>
+- [VIDEO](#video)<br>
   
 ## DESCRIPTION
 
@@ -47,3 +49,6 @@ _program used in photo is called_ **_insomnia_**
 
 !["Sample Photo"](./assets/Screenshot%20(35).png)
 
+## Video
+
+[Click Here to View Walkthrough Video](https://drive.google.com/file/d/1wKhi7mKw8Ie_uGziAZfazDyTPcmfhrt2/view)
