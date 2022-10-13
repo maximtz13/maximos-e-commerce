@@ -22,13 +22,13 @@ Node.js and mysql will need to be installed in order to run this application.
 
 1. Clone Repo and navigate to root folder of repo using a command-line interface (ex: git bash)
 2. Type ``` npm install ``` to install modules needed to run this program.
-1. Delete the ```.example``` from ```.env.example``` and fill in the password with your mysql password.
-3. Log into mysql using command interface and code ``` mysql -u root -p```.
-4. Using mysql, run ``` source db/schema.sql; ``` to generate the database required for this app.
-4. Using mysql, run ``` use ecommerce_db; ``` to use the database required for this app.
-4. Exit mysql by running ``` quit ``` on the command line.
-4. run ``` npm run seed ``` to seed the database with information.
-4. run ``` npm start ``` to start the server.
+3. Delete the ```.example``` from ```.env.example``` and fill in the password with your mysql password.
+4. Log into mysql using command interface and code ``` mysql -u root -p```.
+5. Using mysql, run ``` source db/schema.sql; ``` to generate the database required for this app.
+6. Using mysql, run ``` use ecommerce_db; ``` to use the database required for this app.
+7. Exit mysql by running ``` quit ``` on the command line.
+8. run ``` npm run seed ``` to seed the database with information.
+9. run ``` npm start ``` to start the server.
     
 ## LICENSE
  
